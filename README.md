@@ -1,6 +1,6 @@
 # How to Take Simple Screenshot in Vanilla JavaScript
 
-
+![How-to-Take-Screenshots-in-Vanilla-JavaScript](https://user-images.githubusercontent.com/46256884/235038690-7bc7c0cc-83ed-4b1d-9468-deef5d934de9.png)
 
 Did you know you can take or capture screenshots of any window using vanilla JavaScript? Yes, there’s no need for an external library or plugin to take a simple screenshot of the web page or window.
 
